@@ -1,4 +1,4 @@
-Melhoriar no método pesquisaVantagensEDesvantagens, ele era Muito longo eu resovli o problema dele com extração do método em 3, 
+Melhoria no método pesquisaVantagensEDesvantagens, ele era Muito longo eu resovli o problema dele com extração do método em 3, 
 entretanto os métodos vantagens e desvantagens ainda estão grandes, eu gostaria de melhora-los de alguma forma futuramente.
 Assim como a implemtentação da função que mostra a foto do pokemon quando o mesmo for pesquisado 
 e do reconhecimento do pokemon apenas por foto sem necessidade de colocar o nome na hora de pesquisar
